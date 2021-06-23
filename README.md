@@ -1,3 +1,3 @@
 # quizzler
 
-A Quiz App Having Question Related to Big(O) Notation and COmplexity.
+A Quiz App Having Question Related to Big(O) Notation and Complexity.
